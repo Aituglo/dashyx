@@ -3,6 +3,23 @@ All notable changes to this project will be documented in this file.
 
 ## [Released]
 
+## [1.2.2] - 2018-08-16
+
+### Changed
+- partition_uid was reset, it's now good
+
+## [1.2.1] - 2018-08-16
+
+### Changed
+- Many instance doesn't work at start
+- Mac OS FontAwesome fix
+- Google doc doesnt work is now good
+- Reload, back, forward when adding new service now work
+- My service is now clean
+- Fix the login background
+- Change the color picker
+- Remove white square in some icon
+
 ## [1.2.0] - 2018-08-10
 ### Added
 - Can now drag service to change the place of it
